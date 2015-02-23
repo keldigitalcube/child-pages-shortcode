@@ -5,17 +5,17 @@ Requires at least: 3.4
 Tested up to: 4.1
 Stable tag: 1.9.2
 
-You can use shortcode for display child pages from the page.
+You can use shortcode for displaying child pages from the page.
 
 == Description ==
 
-You can use shortcode for display child pages from the page.
+You can use shortcode for displaying child pages from the page.
 
-[This plugin maintained on GitHub.](https://github.com/miya0001/child-pages-shortcode)
+[This plugin is maintained on GitHub.](https://github.com/miya0001/child-pages-shortcode)
 
 = Some features =
 
-* This plugin will add shortcode `[child_pages]` display child pages.
+* This plugin will add shortcode `[child_pages]` to display child pages.
 * You can customize default HTML template on your plugin.
 * This plugin will be able to "excerpt" to the pages.
 
@@ -30,8 +30,8 @@ Display child pages of the current page.
 * id - ID of page (Optional)
 * size - Post thumbnail size. e.g. 'thumbnail' or 'large'
 * width - width of block for child pages.
-* disable_shortcode - Shortcode not work in the template if set true.
-* disable_excerpt_filters - filters not work for the excerpt if set true.
+* disable_shortcode - Shortcode will not work in the template if set to true.
+* disable_excerpt_filters - filters do not work for the excerpt if set to true.
 
 = filter hooks example =
 
@@ -87,7 +87,7 @@ Default Template
     </div>
 </div>`
 
-Template valiables
+Template variables
 
 * %post_id% - ID of the Page
 * %width% - Width of block for single page
@@ -107,9 +107,9 @@ Template valiables
 
 == Installation ==
 
-* A plug-in installation screen is displayed on the WordPress admin panel.
+* A plugin installation screen is displayed on the WordPress admin panel.
 * It installs it in `wp-content/plugins`.
-* The plug-in is made effective.
+* The plugin is made effective.
 
 == Changelog ==
 
@@ -164,8 +164,8 @@ Template valiables
 
 == Credits ==
 
-This plug-in is not guaranteed though the user of WordPress can freely use this plug-in free of charge regardless of the purpose.
-The author must acknowledge the thing that the operation guarantee and the support in this plug-in use are not done at all beforehand.
+This plugin is not guaranteed though the user of WordPress can freely use this plugin free of charge regardless of the purpose.
+The author must acknowledge the thing that the operation guarantee and the support in this plugin use are not done at all beforehand.
 
 == Contact ==
 
